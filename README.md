@@ -1,6 +1,6 @@
-# thundergolfer.github.io
+# shivamchoudhary2121997.github.io
 
-Just my website. The theme is [thundergolfer/**junior-theme**](https://github.com/thundergolfer/junior-theme)
+Just my website.
 
 ----
 
